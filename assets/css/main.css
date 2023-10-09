@@ -3751,7 +3751,7 @@ form input, form textarea{
     background: #ffffff;
     padding: 15px;
     margin: 15px 0;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-size: 18px;
     border-radius: 6px;
 }
